@@ -24,7 +24,7 @@ git clone https://github.com/BanPolytech/AppWeb.git
 ### 
 
 Pour lancer l'application :
-  À partir de votre dossier
+À partir de votre dossier
 -  ``` node /NODE/server.js ```
 -  ``` mongod ```
 -  ``` cd IONIC/MyApp ```
